@@ -1,0 +1,15 @@
+.row{
+    padding: 15px;
+}
+div{
+    background-color: mediumorchid;
+}
+h3, h5{
+    display: inline;
+}
+#curso1{
+    width: 150px;
+}
+#curso2{
+    width: 150px;
+}
