@@ -3,5 +3,6 @@ div{
 }
 app-socialmedia{
     float: right;
-    margin-top: 16px;
+    margin-top: 15px;
+    margin-right: 5px;
 }
