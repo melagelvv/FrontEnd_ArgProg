@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+div{
+    background-color: mediumorchid;
+}
+.row{
+    padding: 15px;
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+.contenedor{
+    width: auto;
+}
+.Ptexto, .Pimagen{
+    display: inline-block;
+    text-align: justify;
+}
+.img-proyecto{
+
+    box-shadow: 10px 10px 30px rgb(62, 116, 231);
+}

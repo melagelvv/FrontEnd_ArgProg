@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+.row{
+    padding: 10px;
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+.circulo{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: rgba(127, 255, 212, 0.039);
+    border-radius: 100%;
+}
+div{
+    background-color: mediumorchid;
+}
+
+/*Estilo de Foto de Perfil*/
+@media(min-width: 576px){
+    #fotodeperfil{
+        position: absolute;
+        width: 210px;
+        height: 210px;
+        border-radius: 100%;
+        top: 570px;
+    }
+}
+@media(max-width: 575px){
+    #fotodeperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px purple;
+        left: 33%;
+        top: 580px;
+    }
+}
+
+/*Etiqueta DE NOMBRE*/
+#name{
+    font-weight: bold;
+    margin-top: 5%;
+}
